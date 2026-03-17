@@ -1,0 +1,31 @@
+# Compiled object files
+*.o
+*.obj
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Debug symbols
+*.dSYM/
+*.su
+*.gch
+*.pch
+
+# IDE files
+.vscode/
+.vs/
+*.code-workspace
+*.swp
+*.swo
+*~
+
+# Temporary files
+tempCodeRunnerFile.cpp
+*.tmp
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
