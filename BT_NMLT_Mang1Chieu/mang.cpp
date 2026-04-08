@@ -91,3 +91,28 @@ int PhanTuAmLonNhat(int arr[100], int n)
     }
     return hasNegative ? maxAm : -1;
 }
+//Bài 248: Kiểm tra mảng có tăng dần hay không
+int KiemTraMangTang(int arr[100], int n)
+{
+    for (int i = 0; i < n - 1; i++)
+    {
+        if (arr[i] > arr[i + 1]) // Nếu phần tử hiện tại lớn hơn phần tử kế tiếp
+        {
+            return 0; // Mảng không tăng dần
+        }
+    }
+    return 1; // Mảng tăng dần
+}
+
+//Bài 266: Thêm 1 phần tử x vào mảng tại vị trí k
+int ThemPhanTuVaoMang(int arr[100], int &n, int x, int vt)
+{
+    if (vt < 0 || vt > n || n >= 100) {
+        return 0;
+    }
+    for (int i = n; i > vt; i--) {
+        arr[i] = arr [i -1];
+    }
+    arr[vt] = x;
+    return 1;
+}
