@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="NMLT_Project_01/NMLT_Project_01.vcxproj" />
+</Solution>
