@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\qlkho.obj",
+            "outputs": [
+                "x64\\Debug\\qlkho.h_94A384652339BCD1.ifc.dt.module.json",
+                "x64\\Debug\\qlkho.h_94A384652339BCD1.ifc.dt.d.json",
+                "x64\\Debug\\qlkho.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\HOANG\\HCMUS\\NMLT\\NMLT_Project_01\\NMLT_Project_01\\qlkho.h",
+                    "source-path": "c:\\hoang\\hcmus\\nmlt\\nmlt_project_01\\nmlt_project_01\\qlkho.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

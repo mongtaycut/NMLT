@@ -15,27 +15,39 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\mongtaycut\NMLT\Project01_NMLT\menu.cpp">
+    <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\mongtaycut\NMLT\Project01_NMLT\qlkh.cpp">
+    <ClCompile Include="menu.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\mongtaycut\NMLT\Project01_NMLT\main.cpp">
+    <ClCompile Include="qlkh.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\mongtaycut\NMLT\Project01_NMLT\validation.cpp">
+    <ClCompile Include="validation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="qlkho.h">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="thongke.h">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="qls.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\mongtaycut\NMLT\Project01_NMLT\validation.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\mongtaycut\NMLT\Project01_NMLT\qlkh.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="menu.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="qlkh.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="validation.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="qls.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

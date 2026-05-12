@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="NMLT_Project_01/NMLT_Project_01.vcxproj" />
+  <Project Path="NMLT_Project_01/NMLT_Project_01.vcxproj" Id="beddf5b4-46a0-485a-9c23-b017e4f858c2" />
 </Solution>

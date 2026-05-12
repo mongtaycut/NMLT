@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\thongke.h.obj",
+            "outputs": [
+                "C:\\HOANG\\HCMUS\\NMLT\\NMLT_Project_01\\NMLT_Project_01\\x64\\Debug\\vc145.pdb",
+                "x64\\Debug\\",
+                "C:\\HOANG\\HCMUS\\NMLT\\NMLT_Project_01\\NMLT_Project_01\\x64\\Debug\\thongke.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "thongke.h",
+                    "source-path": "c:\\hoang\\hcmus\\nmlt\\nmlt_project_01\\nmlt_project_01\\thongke.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

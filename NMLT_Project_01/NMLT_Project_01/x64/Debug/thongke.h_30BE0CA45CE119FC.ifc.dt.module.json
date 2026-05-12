@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\thongke.obj",
+            "outputs": [
+                "x64\\Debug\\thongke.h_30BE0CA45CE119FC.ifc.dt.module.json",
+                "x64\\Debug\\thongke.h_30BE0CA45CE119FC.ifc.dt.d.json",
+                "x64\\Debug\\thongke.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\HOANG\\HCMUS\\NMLT\\NMLT_Project_01\\NMLT_Project_01\\thongke.h",
+                    "source-path": "c:\\hoang\\hcmus\\nmlt\\nmlt_project_01\\nmlt_project_01\\thongke.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

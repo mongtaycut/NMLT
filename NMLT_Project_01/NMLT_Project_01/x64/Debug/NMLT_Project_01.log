@@ -1,23 +1,5 @@
-﻿  menu.cpp
-E:\HCMUS\NMLT\mongtaycut\NMLT\Project01_NMLT\menu.cpp(4,10): error C1083: Cannot open include file: 'source.cpp': No such file or directory
-  qlkh.cpp
-E:\HCMUS\NMLT\mongtaycut\NMLT\Project01_NMLT\qlkh.cpp(6,5): error C3861: 'printf': identifier not found
-E:\HCMUS\NMLT\mongtaycut\NMLT\Project01_NMLT\qlkh.cpp(11,13): error C3861: 'printf': identifier not found
-E:\HCMUS\NMLT\mongtaycut\NMLT\Project01_NMLT\qlkh.cpp(12,13): error C3861: 'printf': identifier not found
-E:\HCMUS\NMLT\mongtaycut\NMLT\Project01_NMLT\qlkh.cpp(13,13): error C3861: 'printf': identifier not found
-E:\HCMUS\NMLT\mongtaycut\NMLT\Project01_NMLT\qlkh.cpp(14,13): error C3861: 'printf': identifier not found
-E:\HCMUS\NMLT\mongtaycut\NMLT\Project01_NMLT\qlkh.cpp(15,13): error C3861: 'printf': identifier not found
-E:\HCMUS\NMLT\mongtaycut\NMLT\Project01_NMLT\qlkh.cpp(16,13): error C3861: 'printf': identifier not found
-E:\HCMUS\NMLT\mongtaycut\NMLT\Project01_NMLT\qlkh.cpp(17,13): error C3861: 'printf': identifier not found
-E:\HCMUS\NMLT\mongtaycut\NMLT\Project01_NMLT\qlkh.cpp(18,13): error C3861: 'printf': identifier not found
-E:\HCMUS\NMLT\mongtaycut\NMLT\Project01_NMLT\qlkh.cpp(22,13): error C3861: 'printf': identifier not found
-E:\HCMUS\NMLT\mongtaycut\NMLT\Project01_NMLT\qlkh.cpp(23,27): error C2065: 'fnpick': undeclared identifier
-E:\HCMUS\NMLT\mongtaycut\NMLT\Project01_NMLT\qlkh.cpp(23,13): error C3861: 'scanf': identifier not found
-  main.cpp
-E:\HCMUS\NMLT\mongtaycut\NMLT\Project01_NMLT\qlkh.cpp(23,27): error C2065: 'fnpick': undeclared identifier
-  (compiling source file '../../mongtaycut/NMLT/Project01_NMLT/main.cpp')
-  
-E:\HCMUS\NMLT\mongtaycut\NMLT\Project01_NMLT\menu.cpp(4,10): error C1083: Cannot open include file: 'source.cpp': No such file or directory
-  (compiling source file '../../mongtaycut/NMLT/Project01_NMLT/main.cpp')
-  
+﻿  Scanning sources for module dependencies...
+  menu.cpp
+  qls.cpp
   Generating Code...
+  NMLT_Project_01.vcxproj -> C:\HOANG\HCMUS\NMLT\NMLT_Project_01\x64\Debug\NMLT_Project_01.exe
